@@ -37,3 +37,30 @@ body {
 .container .text-muted {
   margin: 20px 0;
 }
+
+/* Breadcrumb
+-------------------------------------------------- */
+.breadcrumb {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 14px 0 48px;
+}
+
+/* Puppy page
+-------------------------------------------------- */
+.puppy-picture {
+    float: left;
+    width: 460px;
+    text-align: center;
+    border: 1px solid #d9d9d9;
+    padding: 14px;
+    background: #f0eeed;    
+}
+.puppy-picture span {
+    background: white;
+    display: block;
+    width: 100%;
+    padding: 36px 0 61px;
+}
+.puppy-picture img {width: 292px;}

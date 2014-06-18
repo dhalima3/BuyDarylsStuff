@@ -4,7 +4,7 @@ function get_list_view_html($item_id, $item) {
 	$output = "";
 
 	$output = $output . '<div class="col-xs-6 col-md-3">';
-	$output = $output . '<a href="item.php?id=' . $item_id . '" class="thumbnail">';
+	$output = $output . '<a href="puppy.php?id=' . $item_id . '" class="thumbnail">';
 	$output = $output . '<img height="300" width="300" src="' . $item["img"] . '" alt="' . $item["name"] . '">';
 	$output = $output . '</a>';
 	$output = $output . '</div>';
