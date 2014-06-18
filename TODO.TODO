@@ -1,0 +1,5 @@
+ BuyDaryl'sStuff:
+   ☐ Change items array .\items.php:14
+   ☐ Add section banner .\index.php:6
+   ☐ Change heading's UI .\index.php:16
+   ☐ Figure out how to include CSS files in footer .\footer.php:10
