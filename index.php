@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Random stuff sold by Daryl";
+$pageTitle = "Puppies for Sale by Daryl";
 $section = "home";
 include('inc/header.php'); ?>
 
@@ -13,7 +13,7 @@ include('inc/header.php'); ?>
       	
       	<div class="container">
 
-			<h2>Daryl&rsquo;s Latest Items</h2>
+			<h2>The Latest Puppies</h2>
       	
 	      	<?php include("inc/items.php"); ?>
 	      	<!--First row of items -->
